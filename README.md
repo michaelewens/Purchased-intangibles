@@ -20,11 +20,10 @@ If you use the [PPA data](https://github.com/michaelewens/Purchased-intangibles/
 @article{intangibles,
   title={Measuring intangible capital with market prices},
   author={Ewens, Michael and Peters, Ryan H and Wang, Sean},
-  year={Forthcoming},
-  journal={Management Science}
+  year={2023}
 }
 
-Ewens, M., Peters, R.H. and Wang, S., 2023. Measuring intangible capital with market prices". Forthcoming, Management Science.
+Ewens, M., Peters, R.H. and Wang, S., 2023. Measuring intangible capital with market prices". 2023.
 
 ## Key Variables
 
